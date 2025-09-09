@@ -44,7 +44,7 @@ Extras
 + I like playing videogames, in console by preference. Although I don't have any so I only play those my laptop allow me. 
 + I also enjoy playing any sport and rollerskating.
 + LinkedIn: 
-![LinkedIn](https://img.shields.io/badge/-génesis-54141a376?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-génesis-54141a376?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/génesis-denisse-matos-rosario-54141a376)
 
 ![Itla Student](https://img.shields.io/badge/Itla_Student-blue)
 ![Software Development](https://img.shields.io/badge/Software%20Developer%20in%20process%20;D-F08787)
