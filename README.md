@@ -26,9 +26,5 @@ I spend most of time learning, and the other half taking to practice my knowledg
 
 <br />
 
-### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Deniz78y1966&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz78y1966&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Deniz78y1966&icon=2&color=8)](https://visitcount.itsvg.in)
