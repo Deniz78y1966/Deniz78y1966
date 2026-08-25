@@ -8,10 +8,9 @@ I spend most of time learning, and the other half taking to practice my knowledg
 
 ### Right now...
 
-+ I'm working on a website to promote the _sale of seasonings_ that a friend of mine *is starting*.
++ I'm working on a solo project about digitize the system of an early stimulation center. 
 + Completing a Python2 Codeacademy's course.
-+ Practicing my DevOps abilities by implementing it to some old projects.
-+ Looking for interships.
++ 
 
 ## 🌱 About Me:
 
