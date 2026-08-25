@@ -8,13 +8,13 @@ I spend most of time learning, and the other half taking to practice my knowledg
 
 ### Right now...
 
-+ I'm working on a solo project about digitize the system of an early stimulation center. 
++ I'm working on a solo project digitilazing the system of an early stimulation center. 
 + Completing a Python2 Codeacademy's course.
 + 
 
 ## 🌱 About Me:
 
-+ I like playing videogames, in console by preference. Although I don't have any so I only play those my laptop allow me. 
++ I like playing videogames, in console by preference. Although, I don't have any so I only play those my laptop allow me. 
 + I like writting and reading classical literature. I'm currently reading "The Life of Alexander, by Bucephalus". 
 + I also enjoy playing any sport and rollerskating.
 + You can reach me at genesis698y1966@gmail.com
