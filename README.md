@@ -8,7 +8,7 @@ I spend most of time learning, and the other half taking to practice my knowledg
 
 ### Right now...
 
-+ I'm working on a solo project digitilazing the system of an early stimulation center. 
++ I'm working on a solo full-stack project digitilazing the system of an early stimulation center. 
 + Completing a Python2 Codeacademy's course.
 + 
 
